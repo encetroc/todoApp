@@ -31,15 +31,18 @@ body {
 }
 
 .input {
-  height: 40px;
+  height: 37px;
   padding-right: 10px;
   padding-left: 10px;
+  border-radius: 5px 0 0 5px;
   border: none;
 }
 
 .addBtn {
   border: none;
   width: 40px;
+  font-size: 1.5rem;
+  cursor: pointer;
 }
 
 .list {
